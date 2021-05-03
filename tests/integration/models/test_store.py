@@ -52,3 +52,5 @@ class StoreTest(BaseTest):
 
         }
         self.assertDictEqual(store.json(), expected)
+
+
